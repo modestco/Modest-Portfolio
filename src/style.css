@@ -2,10 +2,21 @@ a {
   color: #171539;
 }
 
-a.visited {
-  color: red;
+a:visited {
+  color: #c9974e;
 }
 
-a.hover {
-  color: palevioletred;
+a:hover {
+  color: #6a7b73;
+}
+
+.btn {
+  color: white;
+  background-color: #171539;
+  border: none;
+}
+
+.btn:hover {
+  color: white;
+  background-color: #6a7b73;
 }
