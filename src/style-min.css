@@ -1,9 +1,20 @@
+:root {
+  --primary-color: #171539;
+  --secondary-color: #c9974e;
+  --s-accent-color: #6a7b73;
+  --p-accent-color: #bd7877;
+  --heading-font: "poppins", sans-serif;
+  --cursive-font: "Corinthia", cursive;
+  --body-font: "Lora", serif;
+  --box-shadow: inset 0px 0px 9px 2px rgba(23, 21, 57, 0.2);
+}
+
 a {
-  color: #171539;
+  color: var(--primary-color);
 }
 
 a:visited {
-  color: #c9974e;
+  color: var(--secondary-color);
 }
 
 a:hover {
@@ -12,11 +23,17 @@ a:hover {
 
 .btn {
   color: white;
-  background-color: #171539;
+  background-color: var(--primary-color);
   border: none;
+  box-shadow: var(--box-shadow);
 }
 
 .btn:hover {
   color: white;
   background-color: #6a7b73;
+}
+
+p {
+  text-align: center;
+  font-family: "poppins";
 }

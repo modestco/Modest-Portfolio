@@ -355,6 +355,16 @@
       "plM" : 52780316221407,
       "prP" : 0
     },
+    "\/img\/Basics Certificate.gif" : {
+      "ft" : 4194304,
+      "iS" : 59015,
+      "oA" : 0,
+      "oAP" : "\/img\/Basics Certificate.gif",
+      "oF" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "rq" : 75
+    },
     "\/img\/bgd.png" : {
       "ft" : 32768,
       "iS" : 1989355,
@@ -366,6 +376,16 @@
       "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 90,
+      "rq" : 75
+    },
+    "\/img\/coding queen (1).gif" : {
+      "ft" : 4194304,
+      "iS" : 305669,
+      "oA" : 0,
+      "oAP" : "\/img\/coding queen (1).gif",
+      "oF" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
       "rq" : 75
     },
     "\/img\/few-clouds-day.svg" : {
