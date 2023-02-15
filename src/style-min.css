@@ -12,6 +12,12 @@ body {
   color: #171539;
   font-family: var(--heading-font);
 }
+h4 {
+  margin-top: 0;
+  color: white;
+  background: #6a7b73;
+  border-radius: 20px;
+}
 
 h5 {
   margin-top: 50px;
@@ -82,4 +88,19 @@ p {
 .green,
 .green-1-4 {
   color: green;
+}
+
+section {
+  max-width: 800px;
+}
+
+.fa-3x {
+  color: var(--s-accent-color);
+}
+input {
+  border-radius: 20px;
+  border: dotted 2px;
+}
+label {
+  font-size: 10px;
 }
